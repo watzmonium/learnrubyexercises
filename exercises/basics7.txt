@@ -1,0 +1,6 @@
+What does the following error message tell you?
+
+SyntaxError: (irb):2: syntax error, unexpected ')', expecting '}'
+  from /usr/local/rvm/rubies/ruby-2.5.3/bin/irb:16:in `<main>'
+
+  I believe that a hash, block, lambda, or proc was created and closed with a ) or one just wasnt put on

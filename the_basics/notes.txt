@@ -1,0 +1,19 @@
+Most of my notes from codeacademy are in another doc
+
+important to remember nil means null in ruby
+
+you can check things using .nil?
+
+modulo vs remainder
+
+integer.remainder(div#)
+=> remainder
+
+also .divmod() that gives both the answer AND remainder
+
+lol so this whole modulo remainder thing basically just means avoid the problem.
+
+I will say so far that this is fairly redundant to the codeacademy stuff
+and the program says you need a background in programming but this stuff is super 
+rudimentary. I guess knowing C helps.
+
