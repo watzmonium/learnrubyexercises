@@ -1,0 +1,26 @@
+regex - regular expressions
+
+this would have been useful for what JKap was trying to do with her midterm project
+
+examples:
+
+Check if the pattern "ss" appears in the string "Mississippi".
+Print out the 3rd word of each sentence from a list of sentences.
+Find and replace all instances of "Mrs" with "Ms" in a sentence.
+Does a string start with "St"?
+Does a string end with "art"?
+Does a string have non-alphanumeric characters in it?
+Are there any whitespace characters in the string?
+Find and replace all non-alphanumeric characters in a string with "-".
+
+seems like some kind of search function
+
+Creating regular expressions starts with the forward slash character (/). 
+Inside two forward slashes you can place any characters you would like to match with the string.
+
+We can use the =~ operator to see if we have a match in our regular expression. 
+Let's say we are looking for the letter "b" in a string "powerball". Here's how we'd 
+implement this using the =~ operator
+
+"powerball" =~ /b/
+=> 5
